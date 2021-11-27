@@ -1,2 +1,9 @@
+
+# backend
 /server/node_modules
+/server/.history
+
+
+# frontend
 /client/node_modules
+/client/.history
